@@ -13,7 +13,7 @@
 
 <h3 align="left">My Repo</h3>
 <p align="left">
-  <a href="https://github.com/aiman-tzy/music-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman-tzy&repo=music-player&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
+  <a href="https://github.com/manzx666/music-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manzx666&repo=music-player&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
 </p>
 
    <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
@@ -72,24 +72,24 @@ ___
 ___
    
    <p align="center">
-  <a href="https://github.com/aiman-tzy"><img src="https://github-readme-stats.vercel.app/api?username=AimanX&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/manzx666"><img src="https://github-readme-stats.vercel.app/api?username=AimanX&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/aiman-tzy"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruanyf&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/manzx666"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruanyf&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/aiman-tzy"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiman&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/manzx666"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiman&theme=tokyonight&layout=compact" /></a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/aiman-tzy"><img src="https://github-profile-trophy.vercel.app/?username=ruanyf&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/manzx666"><img src="https://github-profile-trophy.vercel.app/?username=ruanyf&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
 <p align="center">
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=circle&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="aimanmk1234@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=circle&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="aimanmk89@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=circle&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://api.whatsapp.com/send?phone=60102810046&text=Hi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=circle&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
@@ -97,20 +97,20 @@ ___
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aiman-tzy&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manzx666&theme=monokai)
 
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=aiman-tzy)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=manzx666)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/aiman-tzy?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+![Metrics](https://metrics.lecoq.io/manzx666?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
 </details> 
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
