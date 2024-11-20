@@ -1,6 +1,4 @@
 ### Hi there 👋
-https://youtu.be/rooXWoGmPc8?si=Oo1J82hzpdz2YUok
-
 <p align="center">
 <img src="https://avatars.githubusercontent.com/ai-man-123" width="150" height="150"/>
 </p>
